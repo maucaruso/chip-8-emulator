@@ -1,3 +1,3 @@
-import { teste } from "./cpu";
+import { teste } from "./cpu.js";
 
 teste();
