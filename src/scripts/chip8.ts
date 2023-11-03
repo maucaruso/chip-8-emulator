@@ -1,3 +1,3 @@
-import { teste } from "./cpu.js";
+import { Renderer } from "./Renderer.js";
 
-teste();
+const renderer = new Renderer(); 
