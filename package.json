@@ -12,8 +12,17 @@
   "license": "“MIT”",
   "devDependencies": {
     "@types/node": "^20.8.10",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
     "browser-sync": "^2.29.3",
     "concurrently": "^8.2.2",
+    "eslint": "^8.52.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard-with-typescript": "^39.1.1",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.2.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "prettier": "^3.0.3",
     "typescript": "^5.2.2",
     "typescript-cp": "^0.1.9"
   }

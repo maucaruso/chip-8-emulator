@@ -1,3 +1,3 @@
-import { Renderer } from "./Renderer.js";
+import { Renderer } from './Renderer.js';
 
-const renderer = new Renderer(); 
+const renderer = new Renderer();
